@@ -22,7 +22,7 @@ Output example:
 |:----:|:-----------:|:------:|:---------:|
 | Test | Текст       | 0.3678 | Тест      |
 
-2. Differetiated table
+2. Differentiated table
 
 Give two translation files and two score files:
 
