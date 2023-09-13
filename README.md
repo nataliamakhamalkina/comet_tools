@@ -19,7 +19,7 @@ If given two translation files and two score files, creates a differetiated tabl
 |:----:|:------------:|:------:|:------------:|:------:|:---------:|---------------|
 | Test | Текст        | 0.3678 | Тесты        | 0.6456 | Тест      | 0,2778        |
 
-You can sort the translations by the score difference, if you open the .xlsx file and click the filter -> _Sort_ (Excel sorts values on runtime).
+To sort the translations by the score difference, open the .xlsx file and click the filter -> _Sort_ (Excel sorts values on runtime).
 
 # COMET-DA usage
 Use this notebook: [COMET-DA_pipeline.ipynb]().
