@@ -36,10 +36,6 @@ Output example:
 
 To sort the translations by the score difference, open the .xlsx file and click the filter -> _Sort_ (Excel sorts values on runtime).
 
-# COMET-DA usage
-
-Use this notebook: [COMET-DA_pipeline.ipynb]().
-
-# COMET-MQM usage
+# Usage
 
 Use this notebook: [Comet-MQM pipeline.ipynb](https://colab.research.google.com/drive/15AmOsMPxcyhpSjq3xbB58GAdQolfPGKF#scrollTo=lyk2ag-o3--o).
